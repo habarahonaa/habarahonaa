@@ -4,7 +4,7 @@
 
 Self-taught web developer with a huge passion for UX/UI and design. I'm a college student, currently finishing an associate's degree in Information Technology. Also a huge Star Wars fan (not related at all tbh).
 
-Currently working as a Software Engineer @ [Golabs Tech](https://golabstech.com/)
+Currently working as a Software Engineer @ [Privaxi](https://privaxi.com/)
 
 ### My latest projects �👷🏾:
 - [React Advice Generator](https://github.com/habarahonaa/advice-generator) - Advice generator built with React and styled-components
